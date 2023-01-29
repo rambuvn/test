@@ -1,3 +1,3 @@
 "use strict";
 
-echo 'test';
+console.log(process.env.RAMBU);
